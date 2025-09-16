@@ -1,7 +1,8 @@
 ## Hi ,I'm Disha! 
 
 📚Studying Computer Science at Indiana University Bloomington(IUB)</br>
-🔗 Connect with me on [LinkedIn](www.linkedin.com/in/disha-cs)
+I'm an ML enthusiast and im currently working on ML, NLP and AI projects </br>
+🔗Find me on LinkedIn [LinkedIn](www.linkedin.com/in/disha-cs)
 
 
 <!--
