@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi ,I'm Disha! 
+
+📚Studying Computer Science at Indiana University Bloomington(IUB)</br>
+🔗 Connect with me on [LinkedIn](www.linkedin.com/in/disha-cs)
+
 
 <!--
 **dishacs09/dishacs09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
