@@ -2,7 +2,7 @@
 
 📚Studying Computer Science at Indiana University Bloomington(IUB)</br>
 I'm an ML enthusiast and im currently working on ML, NLP and AI projects </br>
-🔗Find me on [Connect with me on LinkedIn]([https://www.linkedin.com/in/disha-cs/])
+🔗Find me on [Connect with me on LinkedIn](https://www.linkedin.com/in/disha-cs/)
 
 
 
